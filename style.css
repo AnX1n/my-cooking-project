@@ -2,7 +2,7 @@ body {
     background-color: #f0f2f5;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
-    flex-wrap: wrap; /* This allows cards to sit side-by-side */
+    flex-wrap: wrap; 
     gap: 20px;
     padding: 40px;
     justify-content: center;
